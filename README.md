@@ -18,8 +18,9 @@ Usage: ./generations num_generations
 ### Invalid argument
 If the argument is less than 0, the program should print a message and exit
 ```
-$ ./generations
-Usage: ./generations num_generations
+$ ./generations -1
+Error: num_generations must be greater than 0
+$
 ```
 ### Correct Argument
 ```
