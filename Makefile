@@ -1,4 +1,4 @@
-generations:
+generations: generations.cpp
 	g++ -g -o generations generations.cpp
     
 clean:
