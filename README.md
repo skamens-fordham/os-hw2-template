@@ -35,7 +35,7 @@ Parent. pid: 5727 ppid: 3329
 ## Completing the Assignment
 To complete the assignment, follow the same steps that you did in [Assignment 1](https://github.com/skamens-fordham/os-hw1-template/blob/main/README.md):
 
-1. Accept the assignment in Github Classroom via [this link](https://classroom.github.com/a/94_ZqEEe)
+1. Accept the assignment in Github Classroom via [this link](https://classroom.github.com/a/-TGAjpSm)
 2. Clone your repository to your local machine
 3. Implement the code, following the instructions in the file `generations.cpp`
 4. Compile and test your program. *Note:* It is not unusual when testing programs that use fork() to end up with an infinite loop. If this happens when you are testing, use Control-C to stop the execution and figure out what is causing the loop.
